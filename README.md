@@ -1,6 +1,5 @@
 # DiabetesPredection 
-### In this ML Project, i use pregnancies', 'glucose', 'diastolic', 'triceps', 'insulin', 'bmi',
-'dpf', 'age', columns data to predict the Diabetes for a person.<br>
+### In this ML Project, i use pregnancies', 'glucose', 'diastolic', 'triceps', 'insulin', 'bmi','dpf', 'age', columns data to predict the Diabetes for a person.<br>
 😎😎😎
 ## Tools or Libraries...
 -> SkLrearn : A library for ML <br>
